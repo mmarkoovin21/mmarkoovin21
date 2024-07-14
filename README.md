@@ -1,6 +1,7 @@
 # Hi, I am Megi
 
 💻 Web develober in progress ...
+
 👩‍🎓 Graduate student at the [Faculty of Organization and Informatics] (https://www.foi.unizg.hr/)
 
 ---
