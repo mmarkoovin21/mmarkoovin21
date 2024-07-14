@@ -7,7 +7,7 @@
 ---
 
 ### 👩‍💻 My Skills
-[![My Skills](https://skillicons.dev/icons?i=react,angular,express,nodejs,js,kotlin,cs,figma,net,compose,mui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,express,nodejs,js,kotlin,cs,figma,net,jetpackpompose,mui)](https://skillicons.dev)
 
 ### 📲 Contact me
 <div class="display:flex">
