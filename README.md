@@ -7,10 +7,10 @@
 ---
 
 ### 👩‍💻 My Skills
-[![My Skills](https://skillicons.dev/icons?i=react,angular,express,nodejs,js,kotlin,cs,figma,net)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,express,nodejs,js,kotlin,cs,figma,net,compose,mui)](https://skillicons.dev)
 
 ### 📲 Contact me
 <div class="display:flex">
-  
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mmarkovin/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:megi.markovinovic@gmail.com)
+</div>
