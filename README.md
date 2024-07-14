@@ -13,3 +13,4 @@
 <div class="display:flex">
   
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mmarkovin/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](megi.markovinovic@gmail.com)
