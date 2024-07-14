@@ -12,4 +12,4 @@
 ### 📲 Contact me
 <div class="display:flex">
   
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/mmarkovin/)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mmarkovin/)
