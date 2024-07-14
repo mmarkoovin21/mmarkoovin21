@@ -18,7 +18,7 @@
 </br>
 
 <details><summary>
-### My Github stats
+My Github stats
 </summary>
   <div style="display: flex;">
     <img height="340px" width="330px" align="center" src="https://github-readme-stats.vercel.app/api?username=mmarkoovin21&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
