@@ -18,6 +18,7 @@
 </br>
 
 <details><summary>
+  <br>
 My Github stats
 </summary>
   <div style="display: flex;">
