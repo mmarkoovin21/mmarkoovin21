@@ -22,7 +22,7 @@ My Github stats
 </summary>
   <br>
   <div style="display: flex;">
-    <img height="210px" width="480px" align="center" src="https://github-readme-stats.vercel.app/api?username=mmarkoovin21&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
     <img height="210px" width="510px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmarkoovin21&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
+    <img height="210px" width="480px" align="center" src="https://github-readme-stats.vercel.app/api?username=mmarkoovin21&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
   </div>
 </details>
